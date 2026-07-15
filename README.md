@@ -1,5 +1,13 @@
 # Prediksi Kegagalan Mesin — Proyek Akhir Praktikum Data Mining 2026
 
+## Disusun Oleh
+
+**1. Rizki Muhammad Mukti (312310421)**  
+**2. Ira Yusan (312310555)**  
+**3. Livia Aufannida (312310188)**  
+
+**Kelas: 1232A**
+
 Aplikasi web interaktif untuk memprediksi risiko kegagalan mesin industri (predictive
 maintenance) berdasarkan data sensor, menggunakan algoritma **Decision Tree**.
 
